@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6721
   title: སློབ་གཞི་འགྲེལ་བརྗོད་ངོ་མཚར་འཕྲུལ་གྱི་ལྡེ་མིག ༼ལོ་རིམ་དྲུག་པའི་དེབ་སྟོད་ཆ།༽
-  volume: ''
+  volume:
+    e9895a8bde7b4ddebffdcd2eddfea003:
+      image_group_id: I3CN6723
+      title: Volume 1 of slob gzhi 'grel brjod ngo mtshar 'phrul gyi lde mig(lo rim
+        drug pa'i deb stod cha/)
+      volume_number: 1
+      total_pages: 260
   author: ''
+ebook_metadata:
+  title: སློབ་གཞི་འགྲེལ་བརྗོད་ངོ་མཚར་འཕྲུལ་གྱི་ལྡེ་མིག ༼ལོ་རིམ་དྲུག་པའི་དེབ་སྟོད་ཆ།༽
+  author: ''
+  sku: P000444
+  cover: cover.jpg
+  layers:
+  - pagination
